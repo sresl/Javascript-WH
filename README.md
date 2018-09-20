@@ -33,3 +33,5 @@ In JavaScript können Objekte als eine Sammlung von Eigenschaften (Properties) a
 ## Verzweigungen
 
 ## Schleifen
+
+# Kiten
