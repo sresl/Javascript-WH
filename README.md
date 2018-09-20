@@ -18,6 +18,10 @@ Der Datentyp String wird in JavaScript für die Repräsentation von textuellen D
 
 In Gegensatz zu anderen Programmiersprachen wie C kann ein String in JavaScript nicht verändert werden. Das bedeutet, dass ein String nicht mehr verändert werden kann, nachdem er erstellt wurde. Es ist aber möglich einen anderen String mit der Hilfe von Operationen aus dem ursprünglichen String zu erstellen.
 
+in Symbol ist ein eindeutiger und unveränderbarer primitiver Wert. Er kann als Schlüssel einer Eigenschaft eines Objekts verwendet werden. In manchen Programmiersprachen werden Symbole auch Atoms genannt.
+
+In JavaScript können Objekte als eine Sammlung von Eigenschaften (Properties) angesehen werden. Mit der Object Literal Syntax werden die nötigsten Eigenschaften initialisiert. Danach können Eigenschaften hinzugefügt oder wieder entfernt werden. Der Wert einer Eigenschaft kann von jedem Datentyp sein. Darunter können sich auch andere Objekte befinden. Dadurch können komplexe Datenstrukturen realisiert werden. Eigenschaften werden mit einem Key identifiziert. Ein Key ist entweder ein String oder ein Symbol.
+
 ## Variablen
 
 ## Operatoren
