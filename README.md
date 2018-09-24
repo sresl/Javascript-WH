@@ -50,6 +50,26 @@ Sie können zum Beispiel einer Variablen einen Wert zuweisen. Der Zuweisungsoper
 ##### var SinnDesLebens = 42;
 Mit dem Schlüsselwort var wird eine Variable namens SinnDesLebens definiert. Der Variablen wird mit dem Zuweisungsoperator = der Wert 42 zugewiesen.
 
+### Rechenoperatoren
+
+Numerische Berechnungen führen Sie mit Hilfe von Rechenoperatoren durch.
+
+zum Addieren das Pluszeichen +
+zum Subtrahieren das Minuszeichen -
+zum Multiplizieren den Stern *
+zum Dividieren den Schrägstrich /
+für Modulo-Berechnungen das Prozentzeichen %
+
+Es gelten die üblichen Rechenregeln (Punkt- vor Strichrechnung etc.). Wie in der Mathematik üblich, müssen Sie Klammern setzen, um eine andere Rangfolge der Operationen zu bestimmen.
+
+var zwei           = 1 + 1,
+    nix            = 2 - 2,
+    auchNix        = 81 / 3 - 27,
+    wenigerAlsNix  = 81 / (3 - 27),
+    SinnDesLebens  = 6 * 7,
+    ergibtAuchSinn = 84 / 2,
+    wiederNix      = 36 * 37 % 666;
+
 ## Kommentar
 
 ## Ausgabe auf Bildschirm
