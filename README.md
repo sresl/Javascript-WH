@@ -28,6 +28,16 @@ Variablen werden mit let oder var deklariert und sind ein Speicher oder Platzhal
 
 ## Operatoren
 
+#### Logische Operatoren
+
+Mit den logischen Operatoren werden logische Verknüpfungen formuliert, z.B. für Abbruchbedingungen von Schleifen.
+
+Mit dem logischen Operator && verknüpfen Sie zwei oder mehrere Bedingungen durch "und", d.h. beide bzw. alle Bedingungen müssen erfüllt sein, damit die gesamte Bedingung erfüllt ist.
+
+Mit dem logischen Operator || verknüpfen Sie zwei oder mehrere Bedingungen inklusiv durch "oder", d.h. es genügt, wenn eine der Bedingungen erfüllt ist, damit die gesamte Bedingung erfüllt ist.
+
+Der logische Operator ! (engl. not) prüft, ob ein Ausdruck unwahr ist. Der Ausdruck if (!name) trifft zu, wenn der Wert von name falsy ist, also ein Leerstring, null, undefiniert oder 0 ist.
+
 ## Kommentar
 
 ## Ausgabe auf Bildschirm
