@@ -84,6 +84,8 @@ https://www.mediaevent.de/javascript/variable.html
 
 https://developer.mozilla.org/de/docs/Web/JavaScript/Datenstrukturen
 
+https://www.mediaevent.de/javascript/output.html
+
 ## Ausgabe auf Bildschirm
 
 Javascript läuft unter dem Mantel des Browsers und kann weder Dateien speichern noch selbstständig drucken. Nachrichten an den Benutzer können direkt ins HTML geschrieben werden (z.B. mit innerHTML) oder mit alert, prompt und confirm in einem modalen Dialogfenster ausgegeben werden.
@@ -92,6 +94,9 @@ alert () ist die bekannteste Javascript-Methode zum Öffnen und Schließen von F
 
 Die Console des Browsers ist das einfachste Radarsystem, wenn wir herausfinden wollen, ob HTML-Tags, Attribute oder CSS an der richtigen Stelle eingefügt wurden. Der Javascript-Befehl console.log () gibt eine Nachricht als String mit Variablen in die Consolen von Firefox, Chrome oder Safari und auch von Internet Explorer aus.
 
-## Verzweigungen
+## Verzweigungen und Schleifen
 
-## Schleifen
+Man unterscheidet grundsätzlich zwei Arten von Kontrollstrukturen: Verzweigungen und Schleifen. Mittels Verzweigungen ist es möglich, die Ausführung einer oder mehrerer Anweisungs-Blöcke von Bedingungen abhängig zu machen (Fallunterscheidung). Schleifen ermöglichen, einen Anweisungs-Block wiederholt ausführen zu lassen.
+
+
+
