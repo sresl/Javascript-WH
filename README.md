@@ -43,6 +43,13 @@ Der logische Operator ! (engl. not) prüft, ob ein Ausdruck unwahr ist. Der Ausd
 Vergleichsoperatoren dienen zum Vergleichen zweier Werte. Solche Vergleiche werden vor allem für bedingte Anweisungen und Schleifen benutzt.
 Als Ergebnis liefern Vergleichsoperatoren immer entweder true (wahr) oder false (falsch).
 
+### Zuweisungsoperatoren
+
+Sie können zum Beispiel einer Variablen einen Wert zuweisen. Der Zuweisungsoperator dafür ist das Gleichheitszeichen. 
+
+##### var SinnDesLebens = 42;
+Mit dem Schlüsselwort var wird eine Variable namens SinnDesLebens definiert. Der Variablen wird mit dem Zuweisungsoperator = der Wert 42 zugewiesen.
+
 ## Kommentar
 
 ## Ausgabe auf Bildschirm
