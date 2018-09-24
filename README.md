@@ -72,6 +72,18 @@ var zwei           = 1 + 1,
 
 ## Kommentar
 
+Abschnitte im Quellcode, die als Kommentar gekennzeichnet sind, werden nicht als ausführbarer Code interpretiert.
+
+Kommentare sind im einfachsten Fall ein Erklärungstext im Quellcode. Hierbei soll er den Leser dabei unterstützen, den Code zu verstehen.
+
+#### Quellen:
+
+https://wiki.selfhtml.org
+
+https://www.mediaevent.de/javascript/variable.html
+
+https://developer.mozilla.org/de/docs/Web/JavaScript/Datenstrukturen
+
 ## Ausgabe auf Bildschirm
 
 ## Verzweigungen
