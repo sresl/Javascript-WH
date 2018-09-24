@@ -28,7 +28,7 @@ Variablen werden mit let oder var deklariert und sind ein Speicher oder Platzhal
 
 ## Operatoren
 
-### Logische Operatoren
+#### Logische Operatoren
 
 Mit den logischen Operatoren werden logische Verknüpfungen formuliert, z.B. für Abbruchbedingungen von Schleifen.
 
@@ -38,19 +38,19 @@ Mit dem logischen Operator || verknüpfen Sie zwei oder mehrere Bedingungen inkl
 
 Der logische Operator ! (engl. not) prüft, ob ein Ausdruck unwahr ist. Der Ausdruck if (!name) trifft zu, wenn der Wert von name falsy ist, also ein Leerstring, null, undefiniert oder 0 ist.
 
-### Vergleichsoperatoren
+#### Vergleichsoperatoren
 
 Vergleichsoperatoren dienen zum Vergleichen zweier Werte. Solche Vergleiche werden vor allem für bedingte Anweisungen und Schleifen benutzt.
 Als Ergebnis liefern Vergleichsoperatoren immer entweder true (wahr) oder false (falsch).
 
-### Zuweisungsoperatoren
+#### Zuweisungsoperatoren
 
 Sie können zum Beispiel einer Variablen einen Wert zuweisen. Der Zuweisungsoperator dafür ist das Gleichheitszeichen. 
 
 ##### var SinnDesLebens = 42;
 Mit dem Schlüsselwort var wird eine Variable namens SinnDesLebens definiert. Der Variablen wird mit dem Zuweisungsoperator = der Wert 42 zugewiesen.
 
-### Rechenoperatoren
+#### Rechenoperatoren
 
 Numerische Berechnungen führen Sie mit Hilfe von Rechenoperatoren durch.
 
