@@ -24,6 +24,8 @@ In JavaScript können Objekte als eine Sammlung von Eigenschaften (Properties) a
 
 ## Variablen
 
+Variablen werden mit let oder var deklariert und sind ein Speicher oder Platzhalter für Daten wie Zahlen und Strings, deren Wert sich während der Ausführung des Scripts ändert.
+
 ## Operatoren
 
 ## Kommentar
